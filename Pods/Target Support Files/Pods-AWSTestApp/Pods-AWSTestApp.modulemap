@@ -1,0 +1,6 @@
+framework module Pods_AWSTestApp {
+  umbrella header "Pods-AWSTestApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
